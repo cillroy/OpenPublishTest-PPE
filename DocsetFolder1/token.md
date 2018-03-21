@@ -1,1 +1,1 @@
-![image title](image.jpg)
+![image title](~/image.jpg)
