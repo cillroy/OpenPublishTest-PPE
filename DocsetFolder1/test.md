@@ -2,11 +2,11 @@
 
 使用 :::noloc text="Find a \"Quotation\""::: 方法.
 
-:::noloc text=""*Hello*"":::
+:::noloc text="*Hello*":::
 
-:::noloc text=""I am crossing\
-a line"":::
+:::noloc text="I am crossing\
+a line":::
 
-::: noloc text=""test"" :::
+::: noloc text="test" :::
 
-:::Noloc text=""test"":::
+:::Noloc text="test":::
